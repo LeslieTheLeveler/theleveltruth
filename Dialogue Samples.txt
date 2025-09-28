@@ -1,0 +1,413 @@
+[--
+This is my prompt describing the scene. We further evaluated and refined it, so there are some differences, but this will give you the idea.
+
+The movie opens with The Governor arriving at work one day, the camera follows her, West Wing style, as she enters the building and goes about starting her day, she discusses policy with staffers she passes, makes jokes with the mail kid, gets some coffee delivered from the upscale "Starbucks" of the movie world. (If you think this movie won't have consumerism and capitalism commentary, you haven't known me long enough.) A pitch-black funny reference to the The President's Scandal is made. It's implied The Presidents Scandal is sexual in nature and targets children, a direct, unsubtle reference to The Epstein List. The Governor, told the joken, gently punches the staffer on the shoulder with a deviously delivered 
+Iñez: "You're bad. You're so bad."
+Staffer: "Can we use it?"
+Iñez: "No."
+
+The single-cut take ends when she enters the Social Media office and a staffer hands her a piece of paper (I'm old, sorry), I mean hands her a tablet to read and says "You're gonna love this!" The upbeat music of the scene slowly degrades into a discordant, jumbled disharmony, as the camera lingers on her face. The expression starts as one of amusement (she's having a good morning, and her staffer acted like she was handing her a joke), to skepticism (a raised eyebrow and twisting of the mouth), to shock (her jaw drops and she places her hand over her mouth), to finally righteous, flaming rage.
+
+The next scene reveals the source of those emotions. In a move promoted as a "security" upgrade, the administration has passed a law that allows them to consider children between the ages of 14 and 17 to be adults when prosecuted for "being here illegally" or otherwise "breaking the law." The Governor, revealed later to be a Juris Doctorate who got her political start as a child activism lobbyist, reveals in a press conference what she found in the law that was passed: It allows the government to designate children that age as an adult for **anything**. Children can now be exploited for their labor without previous protections, the implications for children living "in the closet" are unfathomable, especially with phobic parents, and worst of all, they would be able to lower the Age of Consent to 14 nationwide. She concludes the interview with the most chilling detail: The Law allows the government to change the age restrictions in The Law to anything.
+
+The implications of the law, as well as the blatantly evil intent, motivates The Governor and Leslie to devise The Plan. 
+
+Before the dissolve/transition/whatever, after reading and reacting to the new law, Gov. Lā'au looks up from the tablet, her cheek still bearing a couple tears, but rage burning in her eyes, and says to the assistant behind her: "Sally, what do I have today?"
+--]
+
+[--
+Scene: Sacramento, California, Capital Park in front of the California State Capitol. The day is sunny, warm, a slight breeze, a perfect, early-summer, North California day. The Host and their Techs are setting getting ready to livestream. The 'set' is an expensive, but portable, collection of high-end telecommunications gear. Three large screens with speakers sit behind The Host's stool, mounted on a collapsible, telescoping frame, high enough up that they can be easily seen and heard from a crowd of standing people. The Host's Stool is a designer piece, but it is crudely and incompletely spray-painted matte black. Next to the stool is a microphone stand, and a small table with a top-end designer laptop. Opposite The Host's stool is a high-end portable digital video camera mounted on an expensive tripod; additional cameras are mounted above the video screen and carried by The Techs to capture the crowd and surroundings.
+
+In the background, angled so the sides aren't really visible, is a large touring bus with The Host's channel Logo on the side. The Logo is in the style of campy Golden Age comics; the background is a solid red 'star burst' (think the "BIFF" and "DONK" effects from the 60s Batman TV show); and in front is a comic book rendering of The Host, holding up their Stool with both hands, cocked back like a weapon, appearing to be charging toward the viewer with an angry, screaming face. 
+
+
+The Host is known for their deeply satirical style, angry rants at injustice that use The Stool for both emphasis and comedic effect, unflinching interviews with their video guests, pitch-black (but witty and sincere) sense of humor, guerrilla journalism, and fashion-forward, gender-neutral style. The Show is a web-based livestream that broadcasts from a different location every day, ten months out of the year.
+Part of The Show's viral appeal is that the next location in only announced at the end of The Show, so people have very little time to plan to attend. This makes her crowds small but extremely energetic, only the most devout fans who are willing to make/cancel plans on a moments' notice. Leslie encourages their fans to 'express themselves' and 'come as your true self.' The results are a lot of flashy counterculture visuals (like drag) and a lot of protest signs, but also a lot of people who would otherwise be uncomfortable going out in public as their true identity.
+The video-interview format allows them to plan interviews in advance and conduct them from anywhere.
+There is an ongoing effort among The Host's fanbase (and their detractors) devoted to predicting where they will be on any given day, complete with mathematical models that examine travel time, major urban centers, fan concentrations, suitable shooting locations, and patterns. The Host is famously known for subverting these predictions by planning their tours stops to be nearby, but completely unpredictable, such as broadcasting from remote landmarks (like 'out in the boondocks' remote), underground facilities, the roofs of high-rises, and industrial sites. They almost never ask for permission to use the site (unless it's the day-of and there are safety concerns, such as broadcasting from inside Hoover Dam), preferring public places.
+They and their crew have been blocked from setting up and run off by the police, threatened with arrest, arrested, even blacklisted and banned from some cities and entire states (Leslie frequently flaunts these bans, showing up anyway, preaching about Freedom to Travel). These events are shown in a video montage segment of the show prepared ahead of each broadcast. (Part of their team doesn't travel and works in a really cool office/commune, which will make an appearance in the second movie.) The segment is called The First Infringement.
+The show's team are often threatened with violence both by their very vocal opposition and indirectly (and sometimes directly) by the police, i.e. "leave or we will, and we'll let the Klan over there do whatever they want;" had their family and freinds doxxed; and have been actually attacked, including with gunfire, on more than one occasion. They deal with this by having an active social media presence and real-time interaction with their local fans. Fans provide intelligence, livestream counter-demonstrations, and even provide security. For particularly high-risk areas or locations, where they know there will be violent resistance, they hire private security.
+This is all paid for by immense crowdsourcing and thoroughly vetted ethically endorsements. Leslie Von der Linde-Khan is a worldwide sensation. They don't do interviews with anyone who won't come on their show.
+--]
+
+LESLIE (to TECH 1): "Are we ready?" [Leslie's voice is masculine-coded, loud and fast on their show, but soft and measured in normal conversation.]
+TECH 1: "Good to go, Leslie." [These Techs will have names in the final script]
+LESLIE (loudly, to the crowd): "You all ready?!"
+[The crowd reacts with enthusiasm.]
+[LESLIE picks up The Stool and waves it about menacingly, but safely.]
+LESLIE (into microphone, amplifying their voice through the speakers): "I SAID ARE YOU ALL READY?!"
+[The crowd crescendos, screaming and chanting "LEVEL THEM! LEVEL THEM!"]
+
+LESLIE (loudly, into the microphone): "Alright!! Let's do this!!"
+
+[SMASH CUT to a livestream format, the shot is a live drone stream above the park, showing the crowd, the set, and the Capitol building; the crowd can still be heard. An energetic heavy metal guitar/drum riff combo blares. The Logo appears tiny in the middle of the screen but quick-zooms to fill the frame, as it gets it's largest, blocking all but the very corners of the screen, the music crescendos with a rapid accelerando, topped off by a high-pitched screamer on the guitar and a massive cymbal crash, then The Logo snaps back to it's place (full size this time) in the middle of the screen. As a metalish guitar solo continues playing in the background, a deep Movie Trailer Voice speaks.]
+
+TRAILER VOICE (v.o.): [For the intro, the crowd can be heard chant-yelling along] "Nons and Theys, Shes and Hes, and everyone else who doesn't get a voice, it's time for THE LEVEL TRUTH! Live from **Around America**! On the show today are... [the shout-along stops] English acting legend and pit bull lover Sir Patrick Stewart! [In a frame over The Logo, clips of Sir Patrick and screenshots from his social media posts with his foster dogs play silently in a montage. We wouldn't have to get Stewart to play himself, as he does not appear 'live' in the movie, but we should probably get permission to use his likeness. It's only nice. He seems like a decent person, and you have to keep those.] Dean of Harvard Law and animal rights activist, Dr. Natalia Torres! [The clips shows Dr. Torres giving a TED talk, addressing Congress, and other activism; her social media is also screenshotted throughout the clip highlighting her animal rights activism][The shout-along resumes] And for their first ever interview, off the networks, off the censors, off the chain, ON THE LEVEL: [The clips are of Gov. Lā'au's press conference and other public appearances, interspersed with the same screenshots of social media posts. There is a theme to the posts chosen, to highlight a current flame/troll war between Lā'au and President Connors.][A running joke in introducing the last guest is always to give them some ridiculous attribute, playfully for friends, bitingly vicious for enemies; the joke is sometimes relevent, sometimes not, but always funny.] Jurisdoctorate and three-time Grammy award winning producer, California Governor Dr. Iñez Lā'au!![The last name is pronounced perfectly by the voiceover.]
+
+[CUT back to the main camera POV, Leslie is sitting on The Stool and addressing the camera. Leslie's energy is a barely-contained supernova]
+
+LESLIE (energetically): "Hi everybody! We are LIVE here in beautiful Sacramento, California in front of the historic California Capital! We got a great show for you today, two very different perspectives on pet ownership, and one very popular [crowd noises rise] California Governor... [Leslie waits for the crowd to die down] Streaming from inside THAT building!" [They point at the Capitol, drawing the viewers' (in-universe viewers) attention to it. Leslie has not yet looked where they are pointing, and is caught off-guard when the crowd suddently, almost reverently, quiets down. Leslie notices where everyone's attention is and turns toward the Capitol. From their position, the building is to their back. They hop off their Stool and turn to look.]
+
+[The livestream suddenly jump-cuts to one of the mobile cameras. The camera operator is so excited they can't hold the camera steady; fortunately, it's on an expensive gimbal and the camera hardly notices. It is pointed at a crowd of people leaving the Capitol.]
+
+[Approaching from the Capitol's main entrance is Governor Lā'au, accompanied by en entourage of staff, security, and high-ranking lawmakers.]
+---
+
+#######################################################################################################################
+
+
+Aspect of Dominion - A cultural juggernaut and IDYL's second biggest moneymaker, AoD a subscription-based, sci-fi, cyberpunk MMORPG with optional VR interface. When a new 'character' is 'rolled,' they get a new, unique, procedurally generated planet, and can engage in massive player-vs-player raids and multiplayer boss fights. It's a combination of EVE Online and World of Warcraft, with all the accessibility, user-choice levels of engagement, deep dive complexity, and bizarre (often toxic) culture of both of those games.
+----
+AoD slang terms:
+Bank - One or more high-defense, hidden planets or capital ships with the bulk of your corpo's zed or other precious resources, like tritium (the in-game ship fuel).
+Brute force - The act of deploying a tech acquisition quickly by investing large amounts of resources, usually zed.
+Buy/Bought/Own - Refers to the game's complex corporate finance system for acquiring another guild to meld into your own.
+Caps - Capital ships. Large, powerful, expensive ships that are cost-prohibitive to new players.
+Corpo - The in-game factions, corporations.
+Deepseeker - DRaCO's legendary stealth capital ship and flagship, owned by the guild leader, @arcone_fyre.
+DRaCO - Short for DragonCorp, a smaller major corpo focused on espionage.
+Edge/The Edge - The extent of the game universe, and where new planets are 'rolled.'
+Hackzerg - A combination raid on another corpo that uses the in-game hacking mechanic and a large number of small ships to destroy an opponent's planetary defenses and steal resources. The most common and effective type of raid.
+Mole - A spy in your corpo.
+ODS/ODC - Orbital Defense Satellites/Orbital Defense Codes: refers to planetary defenses that can be destroyed with force, disabled by hackers, or bypassed with a stolen or bought 'ODC.'
+Oil planet - A planet with a large amount of a cheap, little-used resource. See: Snowed
+Raid - hitting another corpo for resources, a raid is a tactical exercise, taking in a wide range of variables. See: Hackzerg
+Reroll/Roll - Make a new character and a new planet, and start with nothing.
+ShineTech - A smallish major corpo focused on defense tech, especially scanner blockers and shields. Owned by Thomasian Collective.
+Snowed - tricked in a bait-and-switch scam using 'scanner hacks' to sell another player a 'snow planet' or low-resource planet.
+Thomasians ('Ts') - The Thomasian Collective, the largest corpo in the game, a cult of personality mirroring IDYL corporate culture, named for its founder and richest player, @thomas_the_planck_engine.
+UBank or U-Bank - Universal Bank, a large zed storage corpo. Also owned by Thomasians.
+Zed - zeebux_hardcoin, the 'coin of the realm,' it's the playerbase-chosen in-game currency most widely accepted in trade. (Large trades can go into the billions or even trillions of Zed, making a shorthand for these trades 'caps' (100B Zed = 20 Caps, fex). Zed has a physical component and must be stored and shipped like cargo.
+ZGS - Zero Gravity Shot, a chat take that is *way off*, a reference to an early glitch that caused solid projectiles to stay in the game world if they missed the enemy ship by a wide margin. In "ZeroG" space, or between systems, these projectiles would gather around black holes, causing people to make "ZGS art" by orbiting a black hole with a lot of missiles.
+----
+
+Scene: The fourth-floor 'play room' at IDYL headquarters in New York.
+TTM: "What do you guys do for me around here besides drink up my juice boxes?"
+[Mario and Xīn yán both laugh with TTM. He's as likeable in person as on screen.]
+TTM: "But seriously, where do you guys work?"
+Mario: "I'm an audio engineer for the video platform."
+Xīn yán: "I'm a writer and artist that makes your video games! I'm on the AoD team!"
+TTM: "Careful with this one, young man, she's a Thomasian!"
+Mario: "We're DRaCO, actually."
+TTM: "Oh, God, that's even worse! So, are you guys dating?"
+Xīn yán: "Just moved in last week!" 
+[As if to accentuate 'week,' Xīn yán rises off her heals briefly and smiles brightly. Mario's brow furrows as he notices her breasts bounce and it briefly draws TTM's attention (who quickly looks back at her face).]
+TTM: "Better throw a ring on this one, kid! Or someone else is likely to!"
+[He gives Xīn yán a wink and strides away. Mario is fuming, but controls himself.]
+Xīn yán (bouncing up and down involuntarily): "That. Was. AWESOME! Did you see his face when you told him we were DRaCO?! Wow!"
+[Xīn yán stands up on her tip-toes to kiss Mario on the cheek.]
+Xīn yán: "You alright, babe?"
+Mario (Loud enough that everyone in the immediate area turns to look at them): "You were **flirting** with him!!"
+Mario storms away.
+
+
+Aspect of Dominion - A cultural juggernaut and IDYL's second biggest moneymaker, AoD a subscription-based, sci-fi, cyberpunk MMORPG with optional VR interface. When a new 'character' is 'rolled,' they get a new, unique, procedurally generated planet, and can engage in massive player-vs-player raids and multiplayer boss fights. It's a combination of EVE Online and World of Warcraft, with all the accessibility, user-choice levels of engagement, deep dive complexity, and bizarre (often toxic) culture of both of those games.
+----
+AoD slang terms:
+Bank - One or more high-defense, hidden planets or capital ships with the bulk of your corpo's zed or other precious resources, like tritium (the in-game ship fuel).
+Brute force - The act of deploying a tech acquisition quickly by investing large amounts of resources, usually zed.
+Buy/Bought/Own - Refers to the game's complex corporate finance system for acquiring another guild to meld into your own.
+Caps - Capital ships. Large, powerful, expensive ships that are cost-prohibitive to new players.
+Corpo - The in-game factions, corporations.
+Deepseeker - DRaCO's legendary stealth capital ship and flagship, owned by the guild leader, @arcone_fyre.
+DRaCO - Short for DragonCorp, a smaller major corpo focused on espionage.
+Edge/The Edge - The extent of the game universe, and where new planets are 'rolled.'
+Hackzerg - A combination raid on another corpo that uses the in-game hacking mechanic and a large number of small ships to destroy an opponent's planetary defenses and steal resources. The most common and effective type of raid.
+Mole - A spy in your corpo.
+ODS/ODC - Orbital Defense Satellites/Orbital Defense Codes: refers to planetary defenses that can be destroyed with force, disabled by hackers, or bypassed with a stolen or bought 'ODC.'
+Oil planet - A planet with a large ammount of a cheap, little-used resource. See: Snowed
+Raid - hitting another corpo for resources, a raid is a tactical exercise, taking in a wide range of variables. The most common types of raid are 'hackzerg' raids.
+Reroll/Roll - Make a new character and a new planet, and start with nothing.
+ShineTech - A smallish major corpo focused on defense tech, especially scanner blockers and shields. Owned by Thomasian Collective.
+Snowed - tricked in a bait-and-switch scam using 'scanner hacks' to sell another player a 'snow planet' or low-resource planet.
+Thomasians ('Ts') - The Thomasian Collective, the largest corpo in the game, a cult of personality mirroring IDYL corporate culture, named for its founder and richest player, @thomas_the_planck_engine.
+UBank or U-Bank - Universal Bank, a large zed storage corpo. Also owned by Thomasians.
+Zed - zeebux_hardcoin, the 'coin of the realm,' it's the playerbase-chosen in-game currency most widely accepted in trade. (Large trades can go into the billions or even trillions of Zed, making a shorthand for these trades 'caps' (100B Zed = 20 Caps, fex). Zed has a physical component and must be stored and shipped like cargo.
+ZGS - Zero Gravity Shot, a chat take that is [i]way off[/i], a reference to an early glitch that caused solid projectiles to stay in the game world if they missed the enemy ship by a wide margin. In "ZeroG" space, or between systems, these projectiles would gather around black holes, causing people to make "ZGS art" by orbiting a black hole with a lot of missile.
+----
+[Xīn yán is at her computer, her eyes still moist from her argument with Mario.]
+@zine_grrrl (Xīn yán): what do you mean, its all gone/?
+@nkl_bak_alwys_sukt: we got raided!
+@zine_grrrl: what'd they hit??
+@nkl_bak_alwys_sukt: EVERYWHERE. We think someone sold a thomasian one of our ODCs and they got a tansport with a bunch of hackers past the sats at Zenith
+[ODC is Orbital Defense Code, Zenith is the main hub of DRaCO]
+@zine_grrrl: you've gotta be shittin me... I literally jst broke up with my bf and this happens? somebody kill me.
+@nkl_bak_alwys_sukt: bf!?!?!?!? what happened? do you wanna tlak?
+@zine_grrrl: nah, its been coming... he's so jealous!
+@zine_grrrl: why did you say bf? like that?
+@nkl_bak_alwys_sukt: honestly? i thought you were a lesbian, I guess?
+@zine_grrrl: you thought i was gay!? why?
+@nkl_bak_alwys_sukt: I dunno. when i asked you out you said you were seein somone, but said it all mysterious like you didnt want to talk about them...  and the way your voice comes through on vc...  bad guess on my part, i guess?
+@zine_grrrl: anyway, i'm not gay, just pissed...  what did we lose?
+@nkl_bak_alwys_sukt: everything... they hackzerged us. they even hit winn's place...  arcone thinks we got a mole...  if that's possible...
+@zine_grrrl: fuck if they hit Winn we're fucked! they had all the fuckin money!
+@nkl_bak_alwys_sukt: yyyuppp. arcone's ready to disband and go to the Ts [Thomasians]
+@zine_grrrl: well, fuck us, I guess. arcone has the Deepseeker [DRaCO's legendary stealth flagship]
+@nkl_bak_alwys_sukt: he said he's gonna take it with him to get a good spot with the Ts... I mean it's his ship, but fuck...
+@zine_grrrl: at least I still have you, nkl
+@nkl_bak_alwys_sukt: always!
+@zine_grrrl: so what do we do?
+@nkl_bak_alwys_sukt: we could reroll? [Make a new character with a new planet. The planet is 'rolled' when the character is made.]
+@zine_grrrl: reroll? in this economy? with a planet way out on The Edge? no thanks...
+@nkl_bak_alwys_sukt: what do you have left in hiding?
+@zine_grrrl: I dunno, a couple frigates and a cap ship
+@nkl_bak_alwys_sukt: One of my caps survived, but it's like 50M zed for repairs
+[Zed, short for zeebux_hardcoin, the universal currency finally accepted by most players, has a physical component and must be stored and shipped like cargo]
+@zine_grrrl: how much you got?
+@nkl_bak_alwys_sukt: about 2B, but 50M still hits
+@zine_grrrl: no shit... at least I got my 100B from when aura quit
+@nkl_bak_alwys_sukt: no you dont
+@zine_grrrl: you gotta be fuckin kiddin me!!! how'd they find our bank????
+@nkl_bak_alwys_sukt: mole, prolly
+@zine_grrrl: who knew the bank coords?
+@nkl_bak_alwys_sukt: wasn't them. all offline when the attack happened. Goldmoon 5000 had a level 25 sat def, they had to have the ODC or that would have been more damage than is in the bank
+@zine_grrrl: not really, I could prolly do it with only 20 caps.
+@nkl_bak_alwys_sukt: noway you hit G5K with only 20 caps
+@zine_grrrl: I know a way...  not tellin though, don't know what faction you'll wind up in
+@nkl_bak_alwys_sukt: I'd go with you...
+@zine_grrrl: that's sweet, but I'm not going Ts
+@nkl_bak_alwys_sukt: who said anything about going to the Ts?
+@zine_grrrl: you. repeatedly. daily. for like two weeks last month...  you were threatening arcone! you were almost gave the Ts 25 caps for a fucking oil planet
+@nkl_bak_alwys_sukt: you know arcones full of shit... I'd never agree to a deal like that
+@zine_grrrl: arcone says you got snowed [bought a snow planet in a bait-and-switch scam]
+@nkl_bak_alwys_sukt: baby, I'm rock salt. my scanners are all L25
+@zine_grrrl: liar. I've seen your specs...
+@nkl_bak_alwys_sukt: ok, level 20, but Ts don't have that good shield tech
+@zine_grrrl: yeah they do, they bought ShineTech last month
+@nkl_bak_alwys_sukt: how'd they deploy it so fast?!?!
+@zine_grrrl: gal thinks they brute forced it...  I could see it, if they pooled
+@nkl_bak_alwys_sukt: hang on... lemme check my calc...  brb
+@zine_grrrl: waiting...
+@nkl_bak_alwys_sukt: this can't be right...  calc says 70T
+@zine_grrrl: sounds about right..  they own u-bank, too, so they've got the room 
+@nkl_bak_alwys_sukt: jeezus... 
+@nkl_bak_alwys_sukt: think I'm gonna call it, got work tomorrow
+@zine_grrrl: taking a personal day tomorrow
+@nkl_bak_alwys_sukt: makes sense. feel better
+@zine_grrrl: I'll try
+@nkl_bak_alwys_sukt: and maybe stop eating so much pussy, you degenerate lesbian!
+@zine_grrrl: way off, bro! I like em tall and geeky. and with a penis.
+@nkl_bak_alwys_sukt: I"M TALL AND GEEKY AND I HAVE A PENIS!
+@zine_grrrl: rofl u always cheer me up, nkl
+@nkl_bak_alwys_sukt: but srsly, wanna go out? I hear youre available...
+@zine_grrrl: knock it off, it's getting annoying now
+@nkl_bak_alwys_sukt: aight, w/e... can't blame a guy for shooting his shot...
+@zine_grrrl: not cool, bro, jeez. i literally told you I just broke up with him TONIGHT...  christ
+@nkl_bak_alwys_sukt: . . . didn't mean to piss you off, zine... just tryin to cheer you up
+@zine_grrrl: ZGS, bro...  take a hint and learn boundries...  this isn't the first time I've had to call you out on that shit!
+[ZGS is AoD slang for a shot that misses by a country mile. In the early game, if you weren't in a star system, ZGS shots stayed in the game engine if they were projectiles. They would then get trapped in orbit around black holes, dangerous areas for ships. This led to a practice in game of "ZGS art:" firing missiles around a black hole to make orbit pattern, etc. ZGS stands for Zero Gravity Shot.]
+@nkl_bak_alwys_sukt: I'm just trying to help, ffs. i know he just dumped you, but i'm your friend
+@zine_grrrl: a friend would have backed off the first time, nkl. your startin' to sound a little incelly...
+@nkl_bak_alwys_sukt: who you calling incel bitch?!? fuuuuuuuck this always happens....  you think you got a shot, but here comes the fucking freidnzone!
+@zine_grrrl: there it is! let me guess, I led you on?!
+@nkl_bak_alwys_sukt: you fucking did...  you were always flirting with me in voice!
+@zine_grrrl: I wasn't flirting, idiot, I was being nice...  learn a fucking verbal cue, would ya
+@nkl_bak_alwys_sukt (after being quiet for several minutes): You know what: Fuck you. I am done. I'm going to the Ts and takin my shit. Fucking females, man. Every single one of them. No wonder so many guys go red pill. Maybe I should get ripped, then I'd have a fucking shot at least. What is so terrible about me, huh? Can you answer that?
+@zine_grrrl: fuck off, nkl. you *are* an incel. get fucked. ,.|.. >.< ..|.,
+@nkl_bak_alwys_sukt: I know where you live, whore.
+
+SCENE: Central Park West
+[LESLIE is standing on a small bridge. A cameraman, WES, is nearby. TTM approaches from the south. Mario approaches from the north, wearing a bulky hoodie, pulled down over his face. He has grown a beard. TTM walks up to LESLIE and WES]
+TTM: "What's with the camera?"
+Wes: "Insurace."
+TTM: "I assure you, I'm on your side."
+Leslie: "We'll see about that. Whatcha got?" [Leslie is chewing gum.]
+TTM: "Everything, everything you're missing."
+Leslie: "You're going to have to do better than that, Mr. Mince. [seeing his expression] Or is it Mr. Wince?" [Leslie is quoting a popular meme, where TTM is caught in an unflattering facial expression.]
+TTM: "Do you want my help or not?"
+Leslie: "Depends, how ar- HEY!"
+[TTM grabs her and throws them both bodily over the low railing of the bridge, toward the shallow creek. Mario yells "Information is freedom!" The next second, the world comes apart. The explosion tears through the fragile bridge, killing Wes instantly. TTM, who took the brunt of the blast to his back and legs, lays a little further away from the hole in the bridge than Leslie. They try to get up, to stop the ringing, to call out to Wes or TTM. Wes is gone, Mario is in several pieces, and TTM looks like he's dead. They roll him over and shake him gently.]
+Leslie: "TTM? Mr. Mince? MR. MINCE?"
+TTM (groaning softly, his first noise): "Mrmnn.."
+Leslie: "What'd you say?"
+TTM: "I... really hate... that name..." He is having difficulty breathing.
+Leslie (hangs their head, chuckling): "I know."
+TTM: "Oh, Leslie, I scr- [he winces in pain, arching his back] I... screwed up... Thought I knew... how the world... works. [He grabs Leslie's shirt] Can you-? [wince] Can the world... ever forgive me?"
+Leslie (Pulling his hand off and resting it gently on his chest): "That's all we can do."
+They are quiet for a moment. Sirens can be heard in the distance.
+TTM (suddenly alert): "That's not all you can do. Before the cops get here, take this."
+[TTM pulls out a fancy, compact SSD.]
+Leslie: "What is it?"
+TTM: "Instructions... on the disk... you'll... you'll know... what to... do..." [He's fading fast]
+Leslie: "Who? Who is behind it?!"
+[TTM mutters something incomprehensible. Leslie leans down to listen.]
+Leslie: "Connors? He's in prison where he belongs! What's he got to do with this?"
+TTM (Pulling them close): "Not... Duke... Father... Anthony Connors..." [This is the first time Connors' name is used in the show]
+Leslie: "Anthony Connors? Anthony Connors runs the WAP?"
+TTM: "Not party..."
+TTM: "AFD... everything... [He closes his eyes] (quietly) I'm loggin' out here..."
+Leslie: "They're almost here, listen! The sirens..."
+TTM (opening his eyes): "No. I'm done...  It's up to you guys now..." [His eyes start to sink and his body goes limp.]
+[Leslie stands up slowly as the paramedics rush toward them. TTM suddenly grabs their sleeve and they pause.]
+TTM (The revolutionary fire finally back in his eyes): "Hey Leveler... veritas." [He dies]
+
+#######################################################################################################################
+
+Scene: TTM's penthouse, bottom floor. A large Hologram displays Connors' facility
+Ideal: "Connors controls and maintains his underground facilities with a 8000-strong involuntary workforce--"
+Leslie: "Slaves. Call them what they are."
+Iñez: "Currently accepted terminology is 'enslaved person.'"
+Leslie: "Then use that. 'Involuntary workforce' sounds like someone interviewed the mops."
+
+Ideal: "The facility consists of six main components, The Arcology, The Reactor, The Server, The Quarries, The Roof, and The Prison. The facility is completely self-sustaining if necessary, with hydroponic farms and water rehabilitation. The Quarries were existing limestone quarries, but the foundation of The Arcology, and The Server and Reactor, are carved into the bedrock. The Roof is a steel and concrete structure built over The Quarries to support The Campus. The Server is the core of Cocytus' data and processing. It contains 150 zettabytes of storage capacity and 250 thousand bespoke ASICs. The Arcology is a sixty-story skyscraper--" [Note 1]
+Leslie: "Seventy."
+Ideal: "My apologies, internal error. The Arcology has *seventy* stories above ground. The Reactor is a custom built, 2000 megawatt toroidal magnetic confinement fusion reactor. The Camp--" 
+Everyone: "FUSION?!"
+
+[Laveau's phone chirps. It's his wife, Dr. Nia Laveau, **Vice President for Computational Neuro-oncology at Bailey-Fielding Labs** in Queens. The Laveaus keep their home in Fort Greene, but travel a lot for their jobs].
+Laveau (answering idyl.me video chat): "Hey, babe!"
+Nia Laveau: "Hey hon, [seeing the IDYL setting] where are you?"
+Laveau: "Hell's Kitchen if you believe it. At the IDYL tower."
+Nia: "What the 'hell' are you doing there?" [She stresses hell and asks playfully]
+Laveau (scowling mildly): "Classified, but you already know."
+Nia (seriously): "Connors?"
+Laveau: "Yeah, we're doing intel. Roddy's here."
+[Roddy sticks her head in screen]
+Nia: "Hey, Roddy!"
+Roddy: "Hey, Mrs. Boss!"
+Nia: "Smartass."
+Roddy: "All day and all night, sister!"
+Nia: "Okay, be good, Roddy!"
+Roddy: "Not likely" [She turns slightly away, her face out of screen]
+Nia: "Hey Ammy?"
+[Roddy cocks an eyebrow and smirks. She mouths "Ammy?" sarcastically.]
+Laveau: "Yeah, babe? [quietly, to Roddy] Two words: courts. martial. Plural."
+Nia: "You wanted me to remind you to call your brother."
+Laveau: "That's why you called? You could have texted."
+Nia: "Yeah, but then I couldn't flirt with Roddy! Hey girl, you still there? Want some of this, honey?"
+Roddy: "As soon as we dump 'Ammy' here in the East River."
+Nia: "Oh, shit! Did I say that on video?!"
+[Roddy briefly laughs loudly]
+Laveau (dejectedly, knowing this is never going away): "You sure did. Love you, babe."
+Nia: "Love you too! Bring Roddy over this weekend, I want to show her my new vibrator!"
+Laveau (resigned to his fate, speaking to his wife, but looking at Roddy, who's about to lose it and fall to the floor laughing): "I've been stabbed by the Taliban and blown up by IEDs, but this, *this right here*, *this* is the worst day of my life. Love you, hon."
+[He hangs up.]
+[Roddy still looks like she's ready to lose it.]
+Laveau: "Be very, very careful what you say next, Captain, if you value that bird on your collar."
+Roddy (attempting to act serious, but still smirking, curling her lips inward): "Yes, Sir."
+Laveau: "At ease, shipmate."
+[They turn away from the camera, walking back toward the holo-display]
+Roddy (relaxing, he's back; looking at him): "Can I call you 'Ammy'?"
+[Beat, while Roddy continues to try to hide her smirk]
+Laveau (Not looking at her, but with a smile you can hear): "You can call me 'Sir.'"
+
+[Later, after Ideal is done looking for 'anomalies' in the data.]
+Leslie stops on a file, curious, noticing the erroneous data. They, too, are about to dismiss it, but Iñez told them to look for 'anything out of the ordinary' that the heroes could use. It goes like this:
+Leslie: "Got some messed up metadata here, this mean anything to anyone?" [She zooms in so everyone can see]
+Iñez: "Ideal, what do you make of that?"
+Ideal: "Unknown. The numbers appear to be a corruption of the data."
+Leslie: "Maybe, but that's a really specific number combo."
+Ideal: "I have examined every combination of six hundred thousand and one tenth possible. There is no reference in my data to that combination of numbers in that order."
+[As Ideal says this last sentence, Laveau, who was standing nearby examining a data tablet, has slowly raised his head in recognition of the numbers.]
+Laveau: Chuckles.
+Leslie: "Did you just... laugh?"
+Laveau: "Yeah, I know where those numbers are from."
+Roddy: "Where?"
+Laveau: "It's a line from *South Pacific*. You know I was a SeaBee first, right? There's a line in the show where the commander tells Billis, the SeaBee character that his rescue cost $600,000 and Billis says 'and my uncle said I'd never be worth a dime.'"
+Leslie: "You think the designer was a SeaBee?"
+Laveau: "Makes sense, a lot of SeaBees become architects and engineers."
+Iñez: "Holy shit, we may have something. Ideal, what's are the plans for?"
+Ideal: "The blueprint in question is a component of The Quarry's emergency crowd control system."
+Leslie: "Crowd control system? Do I want to know?"
+Ideal: "It appears Connors is nothing if not practical. The crowd suppression system floods the open areas of the space with concentrated Sevoflurane."
+Iñez: "What the hell is Sevoflurane?"
+Laveau (smiling): "Inhalational anesthetic. [Everyone looks at him with "How the hell did you know that? While we're on the subject, how did you catch a South Pacific reference but the computer didn't?" looks] What? My wife's a doctor. They sometimes have to knock people out. Ideal?"
+Ideal: "Yes, Admiral?"
+Laveau: "Maybe the solution isn't technical, it's structural! Ideal, show me where the tanks for the Sevoflurane are, and show me nearby structures."
+Ideal: "Rendering."
+[The Hologram shows a series of 12 large tanks built into the Roof. The nearby structures are a mass of air ducts, data conduits, etc, but Laveau knows what to look for.]
+Laveau [pointing at one of the tanks]: "What's that large duct there? The one that runs to the Arcology?"
+Leslie: "Kinda graspin' at straws, Commander."
+Laveau: "Stay with me here. Ideal?"
+Ideal: "The duct in question appears to be part of the emergency air circulation system for a fallout lockdown."
+Laveau: "So when we attack the compound, that duct will have air going to the Arcology?"
+[Everyone is getting excited as Laveau's voice has risen slightly]
+Ideal: "According to my design analysis, yes."
+Laveau: "Look, here, above it is an access hatch that goes to the walkways."
+Roddy: "What are you thinking, Sir?"
+Laveau: "The tank and air duct are right next to each other! If we plant a shape charge just right, that tank will rupture and Sevoflurane will spray into that duct!"
+[Everyone gets it now.]
+Iñez: "Will a powerful anesthetic hurt the hostages?"
+Laveau: "Ideal, where did you say the hostages would likely be?"
+Ideal: "The bulk of the 30,000 hostages would probably be held in the Residential Area near the middle of the tower. However, you asked me to remind you that the 'terminators,' as you eloquently called them, might be using some of them as human shields."
+Laveau: "Exactly! We flood the lower levels with the gas and knock them out, literally!"
+Roddy: "You alright boss? I haven't seen you like this since you found the back entrance to that cave in Afghanistan."
+Ideal: "Admiral Laveau, your idea for a shape charge may be redundant."
+Roddy: "Explain?"
+Ideal: "Connors' paranoia is reflected in all his designs. The crowd suppression system can be rerouted to the Arcology air supply by way of a control panel here." [The Hologram zooms out to show the whole facility, then zooms in on one of the buildings of the Campus, labeled "Groundskeeping" highlighting an employee break room on the second floor.]
+Roddy: "A break room? I don't get it."
+Leslie: "Ideal, why would Connors put the controls to do that so far from himself?"
+Ideal: "It is not logical. There are probably redundant controls in the Cocytus control room."
+Leslie: "Maybe it wasn't him. Maybe our mysterious Architect had some allies. Ideal, is there anything in that room connected to a network?"
+Ideal: "Yes. The vending machines and cameras are connected to the facility-wide employee surveillance system."
+Iñez: "Figures."
+Leslie: "So our friends built the controls into a coke machine? Clever."
+Ideal: "I'll say, the connection to the air control systems is run through several different systems. By my calculations, at least twelve people involved in the design of the facility would have to have been involved."
+Roddy: "Did you just say 'I'll say'?"
+Ideal: "I did. I am trying to learn human idiom. How did I do?"
+Roddy [shrugs]: "Eh, it was okay. Do we know how to activate the coke machine?"
+Ideal: "If a statistically improbable combination of items is ordered, the system will activate."
+Iñez: "How improbable?"
+Ideal: "Seventeen specific items would need to be purchased, in order, within twenty minutes."
+Iñez: "And you have that order?"
+Ideal: "I do. The order is: Seyferts BBQ pota--"
+Everyone: "We got it!" Leslie: "Just write it down!"
+Laveau: "Looks like we have the beginnings of a plan."
+Iñez: "We sure do, everyone get to work!"
+[They break up, using smaller holograms to plan their aspect of the attack.]
+Roddy (quietly, to Laveau): "South Pacific?"
+Laveau: "Let it go."
+
+
+
+Scene: Groundskeeping break room.
+Iñez (over radio): "Laveau, you guys ready?"
+Laveau (also over radio): "Roddy and her team are in place on the roof. We're almost ready to enter the code."
+Iñez: "*Almost* ready?"
+Laveau: "Stand by, please, Ma'am. [off the radio, to the SEAL frantically pushing a button on the vending machine] What are you doing?"
+RM1 Yano: "Damn thing ate my twenty."
+Laveau: "Are you serious? Just use a debit card."
+RM1 Yano: "And give these assholes my bank info? I'm crazy, Sir, but I'm not that crazy"
+Leslie: "Laveau, what's going on over there?"
+Laveau: "The machine ate Yano's twenty."
+Leslie: "You don't have to put money in! Just punch in the damn codes!"
+
+
+Scene: Roof of the Arcology. It's a bit windy. Roddy and a team of SEALs stand ready, behind cover, weapons pointing at the only access, a small elevator near the helipad.
+Roddy: "They've released the gas, get ready guys! Leslie said it'd only be a couple minutes."
+Laveau (over radio): "That should do it, they should be out."
+Iñez (over radio): "Blow the charges, get Leslie in there."
+[Explosions can be heard from the base of the tower. The blast doors have been breached. Several seconds pass.]
+Roddy (into radio): "What's the status down there?"
+Leslie: "Keep your flak vest on, Boudica."
+Roddy: "Boudica? Baby, you're talkin' to Amelio Robles Ávila!"
+Leslie: "I don't know who that is."
+Roddy: "Look him up, you'll like him!"
+Iñez (over radio): "Can we focus, please?"
+Leslie: "I can multitask, Madam President. The uplink should be done any time now."
+Ideal (over radio): "Cocytus destroyed."
+Laveau: "Who gave the AI a radio?"
+Ideal: "I have been here the whole time, Admiral. The facility should now be unlocked."
+[The elevator lights up]
+Roddy: "We got movement up here!"
+[Several tense seconds pass. The elevator door opens to reveal two Paras, without helmets or exoskeletons, with weapons ready. They attempt to shoot the SEALs but are expertly dropped with headshots. There is brief silence, then Connors comes out, hands up. He sees Roddy.]
+Roddy (not taking her weapon off him): "On the ground, Connors! Hands on your head!"
+[Connors kneels, interlocking his fingers behind his head. He is staring at Roddy.]
+Roddy: "What's the matter? Never seen a Mexica with a gun before?"
+Connors: "Many times. And they are all dead now. Ask your friend, General Nkosi."
+[Roddy zip-ties his hands and yanks him to his feet]
+Roddy: "Be happy to let you try, old man."
+Connors: "Please. You're the 'Good Guys.' I've spent a lifetime burying 'good guys.'"
+Roddy: "You just don't shut up. Have fun with your idiot kid in prison."
+Connors: "You ignorant, sputtering fool. You can't touch me. You can't hurt me, not in front of your soldiers. Do you think there is a judge that will convict me, *if* you can bring the trial? [loudly] Do you think there is a prison that can hold me?"
+[Beat]
+Roddy: "Yeah, I do."
+[She drags him over to the edge]
+Roddy "Hell."
+[She throws him off.]
+[Roddy looks at the other SEALs. They are shocked by their commander's action, but not surprised.]
+SEAL 1: "He pulled a gun."
+SEAL 2: "Nah, bro, he caught a ricochet in the elevator."
+SEAL 1: "We're saving the taxpayers money!"
+SEAL 2: "There ya go! No expensive trial!"
+SEAL 1: "Damn right! Wanna steal his helicopter?"

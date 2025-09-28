@@ -1,0 +1,8 @@
+### TTM Character Summary
+
+* **Initials/Name:** The character's real name has the initials TTM. This is a sacrificial joke, as the character's name is a reflection of his role.
+* **Backstory:** He was a tech idealist who believed information should be free. He developed a powerful AI model and sold it to Anthony Connors, believing his "deal with the devil" was complete.
+* **Relationship with Connors:** Connors initially saw their relationship as purely financial but later developed a "scant fatherly emotion" and a desire for a legacy, so he gave TTM limited access to his AI, Cocytus. TTM used his own more advanced predictive model, combined with his empathy, to manipulate Connors' ego and desire for a legacy to get access to Cocytus.
+* **Betrayal:** TTM's betrayal was a moral act. He was "deeply ashamed" of his role when he discovered the extent of Connors' evil, including The Quarries. This caused him to **regress** to his earlier, more moral activist state.
+* **Death:** TTM and Leslie meet in a park. When an assassin attacks, TTM sacrifices himself to shield Leslie from the blast, resulting in her suffering a severe injury (a broken arm). Before his death, TTM asks for Leslie's forgiveness and gives her a thumb drive with blockchain-encrypted access codes.
+* **Legacy:** TTM's thumb drive gives Leslie access to the next generation of idyl.me and limited access to Cocytus. This allows the heroes to use crowdsourced data and corporate help to match Cocytus' power and ultimately defeat Connors.
